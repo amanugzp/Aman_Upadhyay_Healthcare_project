@@ -1,1 +1,2 @@
 # Aman_Upadhyay_Healthcare_project
+This project was motivated by a need to gain deeper insights into how various comorbidities and patient characteristics influence survival in COVID-19 patient outcomes. Project aims to systematically investigate which underline health conditions exert the most significant influence on the survival rates of infected individuals. By harnessing advanced statistical techniques and machine learning algorithms, we intend to provide critical insights that can inform clinical practice and guide future research endeavours in the field.
