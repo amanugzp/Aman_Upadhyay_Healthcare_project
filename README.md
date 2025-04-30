@@ -98,8 +98,8 @@ The project includes several visualizations to help understand the data and find
 - Create a recommendation system for optimizing treatment plans
 
 ## Acknowledgements
-- [IIITb/Eduminds learning] for providing access to healthcare datasets
-- [Shaghil Jamal] for guidance throughout the project
+- **IIITb/Eduminds learning** for providing access to healthcare datasets
+- **Shaghil Jamal** for guidance throughout the project
 - Open-source community for developing the tools used in this analysis
 
 ## Contact Information
